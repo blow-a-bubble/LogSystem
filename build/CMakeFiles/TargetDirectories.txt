@@ -1,0 +1,4 @@
+/home/blow/github/LogSystem/build/CMakeFiles/example.dir
+/home/blow/github/LogSystem/build/CMakeFiles/bench.dir
+/home/blow/github/LogSystem/build/CMakeFiles/edit_cache.dir
+/home/blow/github/LogSystem/build/CMakeFiles/rebuild_cache.dir
